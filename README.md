@@ -1,6 +1,6 @@
 # hero
 
-> Hero - [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh/) theme
+Hero - A simple theme for [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh/)
 
 ![screenshot1!](/images/screenshot1.png)
 
